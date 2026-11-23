@@ -1,0 +1,18 @@
+# Datasets fornecidos pelos docentes (não redistribuir)
+dataset_TP.csv
+dataset_TP_test.csv
+
+# Ficheiros gerados ao executar
+dataset_tratado.csv
+dataset_tratado.mat
+/melhor_rede_*.mat
+/confusion_*.png
+
+# Ficheiros temporários do MATLAB
+*.asv
+*.m~
+slprj/
+
+# Arquivos comprimidos
+*.zip
+*.rar
