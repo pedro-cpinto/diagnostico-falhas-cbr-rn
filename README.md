@@ -81,6 +81,6 @@ O sistema CBR é interativo: pede os valores de um novo caso e as decisões das 
 ## Autores
 
 - Pedro Pinto — [@pedro-cpinto](https://github.com/pedro-cpinto)
-- [Eduardo Sotto Maior] — [@Sottol](https://github.com/Sottol)
+- Eduardo Sotto Maior — [@Sottol](https://github.com/Sottol)
 
 Projeto académico desenvolvido em par.
